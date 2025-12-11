@@ -17,25 +17,25 @@ export function VideoGallery({ onBack }: VideoGalleryProps) {
       id: 1,
       title: "El dia que todo empezo",
       thumbnail: "/thumbnails/1.jpg",
-      videoUrl: "/videos/1.mp4",
+      videoUrl: "/thumbnails/Videos/1.mp4",
     },
     {
       id: 2,
       title: "Nuestra primera cita",
       thumbnail: "/thumbnails/2.jpg",
-      videoUrl: "/videos/2.mp4",
+      videoUrl: "/thumbnails/Videos/2.mp4",
     },
     {
       id: 3,
       title: "Nuestra primera fiesta familiar",
       thumbnail: "/thumbnails/3.jpg",
-      videoUrl: "/videos/3.mp4",
+      videoUrl: "/thumbnails/Videos/3.mp4",
     },
     {
       id: 4,
       title: "Recuerdos de Morelos",
       thumbnail: "/thumbnails/4.jpg",
-      videoUrl: "/videos/4.mp4",
+      videoUrl: "/thumbnails/Videos/4.mp4",
     },
   ]
 
